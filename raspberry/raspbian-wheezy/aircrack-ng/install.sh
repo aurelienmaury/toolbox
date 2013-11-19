@@ -11,3 +11,5 @@ cd aircrack-ng-1.2-beta1
 make
 
 make install
+
+airodump-ng-oui-update
